@@ -120,7 +120,7 @@ header {
   background: transparent;
   border: 1px solid #FFFFFF;
   color: #FFFFFF;
-  font-weight:500px;
+  font-weight:500;
   font-size:22px;
   padding: 12px 32px;
   cursor: pointer;
@@ -337,3 +337,4 @@ footer {
   width: 32px;
   height: 32px;
 }
+
